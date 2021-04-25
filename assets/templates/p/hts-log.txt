@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Apr 2021 11:34:32 at https://helperscript.com/dream11v2/matchlist/dream11-match-prediction-cricket.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://helperscript.com/dream11v2/matchlist/dream11-match-prediction-cricket.html -O1 "C:\wamp64\www\Hackothon\assets\templates\p" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:34:35	Warning: 	Note: due to https://helperscript.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:34:43	Error: 	"Not Found" (404) at link https://helperscript.com/dream11v2/matchlist/select-player/matchList.js?0.02 (from https://helperscript.com/dream11v2/matchlist/select-player/dream11-cricket-team-generator.html)
+11:34:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://helperscript.com/dream11v2/matchlist/img/bat.svg (from https://helperscript.com/dream11v2/matchlist/cricket-team-generator/dream11-cricket-generator.js?0.14)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 22 links scanned, 19 files written (781448 bytes overall) [317650 bytes received at 22689 bytes/sec], 688486 bytes transferred using HTTP compression in 18 files, ratio 21%, 2.7 requests per connection
+(1 errors, 2 warnings, 0 messages)

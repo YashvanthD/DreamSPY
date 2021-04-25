@@ -1,0 +1,160 @@
+body{
+    background-color: #f6f6f6
+}
+.navbar-brand img{
+width: 150px;
+}
+
+.gtype{
+    font-size: 12px;
+    color: #939393;
+}
+.gteamLink{
+    font-size: 14px;
+}
+.um{
+    font-size: 15px;font-weight:bold;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #7eb9f3;
+    font-weight: bold;
+    background-color: #474747;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+.nav-tabs .nav-link{
+    text-align:center;
+    width:25%;
+}
+.c{
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    background: white;
+    width: 21px;
+    height: 22px;
+    border-radius: 50%;
+    border: 1px solid;
+    font-size: 13px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #ccc;
+    font-weight: bold;
+}
+.p-name, .p-pt{
+    font-size: 12px;
+    padding: 2px 4px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.p-pt{
+    background: white;
+    color: black;
+   
+}
+.datetime{
+    float:left;
+    padding:3px 5px;
+    border-radius:5px;
+}
+
+table tbody tr{
+    cursor:pointer
+}
+.no-select{
+    color:#ccc;
+}
+.container-fluid.spl {
+    background: #fff;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 0 25px;
+    padding-bottom: 10px;
+}
+.genteam{
+   
+    min-height: 350px;
+    padding: 10px;
+    max-height: 520px;
+    
+    margin: 10px;
+    margin-top:0px !important;
+    background: #179b07;
+    background-image: url(https://assets.dream11.com/public/imgs/cricket-artwork.svg);
+}
+.gteam-div{
+    width: 300px;
+    float: left;
+}
+.sp{
+    position: relative;
+    margin: 5px;
+    min-width: 55px;
+    max-width: 100px;
+}
+.cvc {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #fff;
+    font-weight: bold;
+    color: #413e3e;
+    /* font-size: 10px !important; */
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+    border: 3px solid #ff5d5d;
+}
+.cvc.cap{
+   border-color: #303f9f !important;
+}
+.sp div {
+    font-size: 12px;
+}
+.sp .name{
+    background: #e7e7e7;
+    padding: 0 3px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.sp .img{
+    /* background: #e7e7e7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; */
+}
+.sp .role{
+    background: #474747;
+    padding:0 3px;
+    color:#fff;
+    font-size: 8px;
+    display:none;
+}
+.sp .pt{
+    background: #232922;
+    padding: 0 3px;
+    color: #fefefe;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+iframe{
+    width:420px;
+    height:350px;
+}
+.next-link{
+    background-color:#28a745;
+}
+/* basket ball style */
+.bskball.nav-tabs .nav-link{
+    text-align:center;
+    width:20%;
+}
+.spl .card{
+    margin:5px;
+}
+
+@media only screen and (max-width: 500px) {
+  iframe {
+    width:98% !important;
+    margin:0  auto;
+  }
+}
